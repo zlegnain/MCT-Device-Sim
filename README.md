@@ -1,5 +1,5 @@
 # MCT-Device-Sim
-- Designed and implemented a MCT-Device-Simulator similar to [Denas PCM 6](https://www.youtube.com/watch?v=vQyy-AKeKGk) for COMP 3004 Project
+- Designed and implemented a MCT-Device-Simulator similar to the [Denas PCM 6](https://www.youtube.com/watch?v=vQyy-AKeKGk) for COMP 3004 Project
 - Group Members: Zakariya Legnain, Souman Nath, Eric Pham, George Li
 
 # Prerequisites
